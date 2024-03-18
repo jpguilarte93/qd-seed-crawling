@@ -85,27 +85,5 @@ asyncio.run(main())
 
 
 
-# def print_hi(name):
-#     # Use a breakpoint in the code line below to debug your script.
-#     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-#
-#
-# # Press the green button in the gutter to run the script.
 # if __name__ == '__main__':
-#     print_hi('PyCharm')
-#     #target_url = "https://www.boyergmbancroft.com/en/"
-#     target_url = "https://networkofnature.org/species/graminoids/"
-#     max_depth = 5
-#     filter_word = "used-inventory"
-#
-#     found_urls = await get_website_links_async(target_url, max_depth)
-#     print(found_urls)
-#     # for url in found_urls:
-#     #     print(url)
-#     #     if filter_word in url:
-#     #         car_data = await get_car_data_async(url)
-#     #         if car_data:
-#     #             with open("C:\\Users\\laalm\\Desktop\\Crawler.txt", "a") as f:
-#     #                 f.write(car_data + '\n')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
